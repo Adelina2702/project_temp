@@ -1,0 +1,13 @@
+.default {
+    background-color: aqua;
+    color: #000;
+    padding: 12px 16px;
+}
+
+.warningBtn {
+    background-color: tomato;
+    color: #fff;
+    padding: 12px 16px;
+    border-radius: 7px;
+    width: 250px;
+}
